@@ -1,45 +1,52 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
-
+### Hi there 👋 I'm Mostafa Fayez
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
-
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+#### 🚀 Backend Developer | .NET & C# | Clean Code Enthusiast
 
 ---
 
-##### Languages I use
+## 👨‍💻 About Me
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
-##### Some of the technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
-<br/>
+- Backend developer using C# and the .NET ecosystem  
+- Solid foundation in algorithms, OOP, and database management  
+- Experienced with Git, GitHub, and real-life backend projects  
+- Always learning, building, and improving  
 
 ---
 
-Credit: [Danushka2](https://github.com/Danushka2)
+## 🛠️ Tech Stack
 
-Last edited on: 30/06/2022
+**Languages & Markup:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Technologies:**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-000000?style=flat&logo=.net&logoColor=white)
+![Windows Services](https://img.shields.io/badge/Windows%20Services-0078D6?style=flat&logo=windows&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20API-000000?style=flat&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mostafa-fayez-629833325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/1EAXP7v5MG/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <a href="mailto:mostafa.14amp@gmial.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
