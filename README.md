@@ -4,7 +4,7 @@
 ---
 - <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 - Backend developer using C# and the .NET ecosystem  
 - Solid foundation in algorithms, OOP, and database management  
