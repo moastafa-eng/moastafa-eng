@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Mostafa Fayez
 
 #### 🚀 Backend Developer | .NET & C# | Clean Code Enthusiast
----
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+---
 
  👨‍💻 About Me
 
