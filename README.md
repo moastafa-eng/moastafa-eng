@@ -1,18 +1,14 @@
 ### Hi there 👋 I'm Mostafa Fayez
 
 #### 🚀 Backend Developer | .NET & C# | Clean Code Enthusiast
-
 ---
-
 ## 👨‍💻 About Me
 
 - Backend developer using C# and the .NET ecosystem  
 - Solid foundation in algorithms, OOP, and database management  
 - Experienced with Git, GitHub, and real-life backend projects  
 - Always learning, building, and improving
-
 - <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ---
 
 ## 🛠️ Tech Stack
